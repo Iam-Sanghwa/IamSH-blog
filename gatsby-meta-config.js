@@ -44,17 +44,8 @@ module.exports = {
       // ========================================================
       
       {
-        date: '2016.03 ~ 2020. 02.',
-        activity: '슬기로운 학부생활',
-        links: {
-          post: '',
-          github: '',
-          demo: '',
-        },
-      },
-      {
-        date: '2020. 02. ~ 2023. 05.',
-        activity: '슬기롭지못한 첫 직장생활',
+        date: '2024. 02. ~ ',
+        activity: '부캠 중입니당,,',
         links: {
           github: '',
           post: '',
@@ -75,8 +66,8 @@ module.exports = {
         },
       },
       {
-        date: '2024. 02. ~ ',
-        activity: '부캠 중입니당,,',
+        date: '2020. 02. ~ 2023. 05.',
+        activity: '슬기롭지못한 첫 직장생활',
         links: {
           github: '',
           post: '',
@@ -84,7 +75,16 @@ module.exports = {
           appStore: '',
           demo: '',
         },
-      },      
+      },
+      {
+        date: '2016.03 ~ 2020. 02.',
+        activity: '슬기로운 학부생활',
+        links: {
+          post: '',
+          github: '',
+          demo: '',
+        },
+      },
     ],
 
     projects: [
@@ -104,18 +104,7 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      {
-        title: '배달 어플리케이션',
-        description: '배달의 민족 천명 전,, 교내 배달 업체를 리스트업하고, 전화 연결 기능을 제공하는 하이브리드 어플리케이션입니다.',
-        techStack: ['ionic', 'firebase'],
-        thumbnailUrl: '',
-        links: {
-          post: '',
-          github: '',
-          demo: '',
-        },
-      },
-      {
+            {
         title: '동행 모집 어플리케이션',
         description: '여행지 위치 기반으로 주변 여행객과의 매칭을 제공하는 하이브리드 어플리케이션입니다.',
         techStack: ['Flutter', 'Firebase'],
@@ -125,6 +114,17 @@ module.exports = {
           github: '',
           googlePlay: '',
           appStore: '',
+          demo: '',
+        },
+      },
+      {
+        title: '배달 어플리케이션',
+        description: '배달의 민족 천명 전,, 교내 배달 업체를 리스트업하고, 전화 연결 기능을 제공하는 하이브리드 어플리케이션입니다.',
+        techStack: ['ionic', 'firebase'],
+        thumbnailUrl: '',
+        links: {
+          post: '',
+          github: '',
           demo: '',
         },
       },
