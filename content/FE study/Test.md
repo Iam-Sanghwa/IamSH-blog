@@ -4,7 +4,7 @@ title: FS page test
 date: '2024-07-06 00:00:00'
 author: 상화
 tags: CSS 
-categories: FE study
+categories: FE
 ---
 ### 문제
 

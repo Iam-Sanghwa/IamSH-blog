@@ -4,7 +4,7 @@ title: CS test page
 date: '2024-07-06 00:00:00'
 author: 상화
 tags: network
-categories: CS study
+categories: CS
 ---
 ### 문제
 
