@@ -1,7 +1,7 @@
 ---
 emoji: 💻👨🏻‍💻
 title: package.json에 대하여
-date: '2024-02-28 04:26:00'
+date: '2024-02-29 16:55:00'
 author: 상화
 tags: FE study
 categories: FE
